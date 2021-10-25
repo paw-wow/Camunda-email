@@ -47,10 +47,10 @@
     }
 
 Диаграмма работы:
-![](src/images/img_1.png)
+![](figures/img_1.png)
 
 Форма для пользователя с вводом почты и текста письма:
-![img_2.png](src/images/img_2.png)
+![img_2.png](figures/img_2.png)
 
 Веб-страница запущенного проекта:
-![](src/images/img.png)
+![](figures/img.png)
