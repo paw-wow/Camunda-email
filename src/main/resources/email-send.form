@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Адрес почты",
+      "type": "textfield",
+      "id": "Field_1xbc5nc",
+      "key": "email-adress",
+      "validate": {
+        "required": false
+      },
+      "description": "Введите адрес почты"
+    },
+    {
+      "label": "Текст письма",
+      "type": "textfield",
+      "id": "Field_1n8ty12",
+      "key": "email-text",
+      "description": "Введите текст письма"
+    }
+  ],
+  "type": "default",
+  "id": "test-form",
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.16"
+}
